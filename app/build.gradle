@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'com.example.jetpackcarousel'
+    namespace 'big.compose.jetpackcarousel'
     compileSdk 33
 
     defaultConfig {
