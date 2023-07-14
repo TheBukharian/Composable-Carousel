@@ -1,4 +1,9 @@
-# Implementation
+# An animated carousel built with Jetpack Compose.
+
+![Alt](AhWRD.jpg)
+
+
+## Implementation
 
 
 1. Add it in your root build.gradle at the end of repositories:
@@ -17,12 +22,11 @@ allprojects {
 2.  Add the dependency
 ````java
 dependencies {
-    implementation 'com.github.TheBukharian:ComposeCarousel:version'
+    implementation 'com.github.TheBukharian:ComposeCarousel:library_version'
 }
 ````
-
-**Now use it**
 ---
+#### Now use it
 
 ````java
 VerticalCarousel(
@@ -38,10 +42,6 @@ VerticalCarousel(
      }
 )
 ````
-
-#### The result must be like this:
-
-![Alt](AhWRD.jpg)
 
 
 #### You can build horizontal oriented carousel by using ***HorizontalCarousel***  composable function:
