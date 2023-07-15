@@ -58,6 +58,12 @@ HorizontalCarousel(
   }
 )
 ````
+#### Features
+- Smooth scrolling animation
+- Dynamic carousel content
+- horisontal and vertical orientation
+
+
 
 
 
